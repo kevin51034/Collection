@@ -15,8 +15,7 @@ This is a web page with a personality test. choose three item of the quiz then i
 
 3.#Chrome extension
 
-This is an extension that changes all instances of there/their/they're to the wrong kind of their/there.
-
+This is an extension that changes all the words which indicate in the file
 
 
 4.#Flashcards
