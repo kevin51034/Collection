@@ -17,4 +17,4 @@ STEP to using the extention
 
 Take this file for instance
 
-The transformTextNodes function should recursively walk the DOM tree and modify the textContents of each text node that contains a “there”, “their”, or “they’re” as necessary(the words indicate in 'MATCH_LIST' of 'page.js')
+The transformTextNodes function should recursively walk the DOM tree and modify the textContents of each text node that contains a “there”, “their”, or “they’re”(the words indicate in 'MATCH_LIST' of 'page.js')
