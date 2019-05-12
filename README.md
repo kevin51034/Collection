@@ -20,7 +20,6 @@ This is an extension that changes all instances of there/their/they're to the wr
 
 
 4.#Flashcards
-
 https://cs165.github.io/homework3-kevin51034/
 This is the Flashcard web app that loads desks of flashcards for the user to review and score themselves.
 if the user think the word/definition is correct then drag right, if is wrong then drag left.
