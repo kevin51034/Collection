@@ -6,7 +6,7 @@ This is an extension that changes all the words which indicate in the file
 STEP to using the extention
 
 
-1.In the URL bar, type in chrome://extensions and hit enter. This will bring you to Chrome’s extensions settings page.
+1.In the URL bar, type in 'chrome://extensions' and hit enter. This will bring you to Chrome’s extensions settings page.
 
 2.In the upper right corner, there is a check box that says “Developer mode.” Check this box.
 
