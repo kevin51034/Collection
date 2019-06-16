@@ -1,0 +1,141 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+#menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  width: 100vw;
+}
+
+#menu {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#menu fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  width: 90%;
+  max-width: 700px;
+}
+
+#menu h1 {
+  margin: 0;
+}
+
+#menu h2 {
+  font-size: 1.25em;
+  font-weight: normal;
+  margin: 0.5em 0;
+}
+
+#menu input[type=submit] {
+  margin-top: 1em;
+}
+
+#menu input, #menu select {
+  border: 0;
+  box-sizing: border-box;
+  font-size: 24px;
+  height: 2em;
+}
+
+#menu input[type=text], #menu select {
+  width: 100%;
+}
+
+#menu input:focus, #menu select:focus {
+  outline: none;
+}
+
+#menu input[type=submit] {
+  background-color: #e0e0e0;
+  border: 0;
+  width: 100%;
+  max-width: 180px;
+}
+
+#menu input[type=text]:focus {
+  border-bottom: 2px solid black;
+}
+
+#menu input[type=text] {
+  background-color: white;
+  border-bottom: 2px solid #e2e2e2;
+}
+
+#menu select {
+  background-color: #ddfff8;
+}
+
+#menu .submit-button {
+  text-align: center;
+}
+
+#music {
+  display : flex;
+  height : 100vh;
+  flex-direction: column;
+
+
+}
+#gif {
+  flex-grow: 1;
+  position: relative;
+
+}
+
+#frontgif {
+  height:100%;
+  width:100%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  z-index: 1;
+  position: absolute;
+
+}
+#backgif {
+  height:100%;
+  width:100%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  z-index: -1;
+  position: absolute;
+  top : 0px;
+
+}
+#buttonsec {
+  height : 70px;
+  margin : 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#playbutton , #pausebutton {
+  height : 60px;
+  width : 60px;
+
+}
+
+#loading {
+  position:absolute;
+  top : 50%;
+  left : 50%;
+  margin-left: -2em;
+  color : #e2e2e2;
+  font-size: 2em;
+  font-style: italic;
+}
+
+.inactive {
+  display: none !important;
+}
