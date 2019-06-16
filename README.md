@@ -26,3 +26,17 @@ This is the Flashcard web app that loads desks of flashcards for the user to rev
 There are more detail code and readme file in the folder
 
 
+5.#MusicBox
+https://kevin51034.github.io/5/
+
+A simple music visualizer,querying the Giphy API to load a different gif on each “kick” of the song.
+
+
+6.#Sheetsu Clone
+
+A NodeJS server that can read, write, and delete data from a Google Spreadsheet.
+
+
+7.#Diary
+
+A Diary Web App Using MongoDB
