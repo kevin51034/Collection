@@ -40,3 +40,6 @@ A NodeJS server that can read, write, and delete data from a Google Spreadsheet.
 7.#Diary
 
 A Diary Web App Using MongoDB
+
+Deploy to Heroku:
+https://diarywebkevin51034.herokuapp.com/
